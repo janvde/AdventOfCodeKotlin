@@ -1,4 +1,4 @@
-package day9
+package day9.part1
 
 import java.io.File
 import java.math.BigInteger
