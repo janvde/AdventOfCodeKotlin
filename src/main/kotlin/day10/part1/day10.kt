@@ -1,4 +1,4 @@
-package day10
+package day10.part1
 
 import java.io.File
 
@@ -6,7 +6,7 @@ fun main(args: Array<String>) {
     val input = readInput(args[0])
     val adapters = input.sorted()
 
-    //println(adapters)
+    println(adapters)
 
     var numberOfOnes = 0
     var numberOfThrees = 1 // step to device
